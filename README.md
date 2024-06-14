@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤBYㅤ+TOMKET+S+T+O+R+E" />
 </p>
+### DILARANG MENGUBAH ISI SOURCE CODE SAYA, ATAU DATA VPS ANDA SAYA AMBIL ALIH DAN SAYA ACAK-ACAK
 
 ### INSTALL SCRIPT 
 ```
