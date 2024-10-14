@@ -321,8 +321,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="-1002131657385"
-KEY="66424120453:AAHPmDg_YsU5uOtIZLMqPtnYGDTaps_B-Bo"
+CHATID="1708391805"
+KEY="7214681987:AAE89N5nqlICTwc4jXOL-GknUnIjxfWFHGs"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 ISP=$(cat /root/.isp)
 CITY=$(cat /root/.city)
@@ -986,7 +986,8 @@ rm -rf /root/domain
 #sudo hostnamectl set-hostname $user
 secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
-echo ""echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
+echo ""
+echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
 echo -e "\e[96;1m          -[ TOMKET TUNNELING PROJECT ]-                 \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo -e ""
